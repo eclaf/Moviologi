@@ -1,0 +1,18 @@
+
+<resources>
+    <string name="app_name">Moviologi</string>
+    <string name="hint_search_text">Pencarian</string>
+    <string name="title_refresh_menu">Muat Ulang</string>
+    <string name="label_languange">Ganti Bahasa</string>
+    <string name="label_release_date">Tanggal Rilis</string>
+    <string name="label_vote">Nilai:</string>
+    <string name="label_genres">Jenis Film</string>
+    <string name="label_overview">Sinopsis</string>
+    <string name="label_production_details">Detail Produksi</string>
+    <string name="label_belongs">Koleksi</string>
+    <string name="label_budget">Biaya</string>
+    <string name="label_revenue">Penghasilan</string>
+    <string name="label_companies">Perusahaan</string>
+    <string name="label_countries">Negara</string>
+
+</resources>
